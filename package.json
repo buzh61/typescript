@@ -1,0 +1,36 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzh61/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buzh61/typescript/issues"
+  },
+  "homepage": "https://github.com/buzh61/typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3",
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "babel-jest": "^28.1.1",
+    "babel-loader": "^8.2.5",
+    "css-loader": "^6.7.1",
+    "eslint": "^8.17.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "html-loader": "^3.1.2",
+    "html-webpack-plugin": "^5.5.0",
+    "jest": "^28.1.1",
+    "mini-css-extract-plugin": "^2.6.1"
+  }
+}

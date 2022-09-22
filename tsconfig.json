@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "sourceMap":true,
+    "outDir":"./dist",
+    "rootDir":"./src",
+    "target": "es5",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "module": "commonjs",                                /* Specify what module code is generated. */
+  }
+}
